@@ -40,7 +40,7 @@ git clone ssh://git@github.com/sstephenson/ruby-build.git $HOME/.rbenv/plugins/r
 
 # pyenv
 echo "Installing pyenv..."
-git clone ssh://git@github.com/yyuu/pyenv.git
+git clone ssh://git@github.com/yyuu/pyenv.git $HOME/.pyenv
 
 # chsh
 echo "Changing default shell to zsh. your password may be required."
